@@ -22,7 +22,7 @@
   <br>
   <h3 style="float: right; width: 50%;">Hello, I'm StudlyCase</h3>
   <h5 style="float: right; width: 50%; margin-top: -10px;">
-    🛠️ I'm currently working on RapidForge.<br>
+    🛠️ I'm currently working on RapidForge and VelamEXIF.<br>
     📜 I'm currently learning Java.
   </h5>
 </div>
