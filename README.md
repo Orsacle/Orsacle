@@ -1,4 +1,5 @@
-<img width="1500" height="500" alt="wideStudlyCase" src="https://github.com/user-attachments/assets/72d6063b-109d-4f48-9d88-45e19ecbdc56" />
+<img width="1500" height="500" alt="Hello, I’m StudlyCase" src="https://github.com/user-attachments/assets/184b0768-2b61-4d22-a82c-0d93f63a9e99" />
+
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -20,10 +21,9 @@
 <div align="center">
   <img align="left" src="https://github-readme-stats.shion.dev/api/top-langs/?username=StudlyCase&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400" />
   <br>
-  <h3 style="float: right; width: 50%;">Hello, I'm StudlyCase</h3>
-  <h5 style="float: right; width: 50%; margin-top: -10px;">
-    ✨ My current mainproject is <a href="https://github.com/StudlyCase/SUPR">SUPR</a>.<br>
+  <h3 style="float: right; width: 50%; margin-top: -10px;">
+    <br>✨ My current mainproject is <a href="https://github.com/StudlyCase/SUPR">SUPR</a>.<br>
     🛠️ I'm currently working on <a href="https://github.com/StudlyCase/RapidForge">RapidForge</a>.<br>
     📜 I'm currently learning <a href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java</a>.
-  </h5>
+  </h3>
 </div>
