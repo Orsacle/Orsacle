@@ -1,5 +1,6 @@
 <img width="1500" height="500" alt="Hello, I’m StudlyCase" src="https://github.com/user-attachments/assets/184b0768-2b61-4d22-a82c-0d93f63a9e99" />
 
+<div align="center">
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -17,6 +18,8 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
 
 <div align="center">
   <img align="left" src="https://github-readme-stats.shion.dev/api/top-langs/?username=StudlyCase&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400" />
