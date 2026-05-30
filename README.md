@@ -26,7 +26,7 @@
   <br>
   <h3 style="float: right; width: 50%; margin-top: -10px;">
     <br>✨ My current mainproject is <a href="https://github.com/StudlyCase/SUPR">SUPR</a>.<br>
-    🛠️ I'm currently working on <a href="https://github.com/StudlyCase/RapidForge">RapidForge</a>.<br>
+    🛠️ My current sideproject is <a href="https://github.com/StudlyCase/RapidForge">RapidForge</a>.<br>
     📜 I'm currently learning <a href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java</a>.
   </h3>
 </div>
