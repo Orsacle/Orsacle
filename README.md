@@ -25,7 +25,7 @@
   <img align="left" src="https://github-readme-stats.shion.dev/api/top-langs/?username=StudlyCase&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400" />
   <br>
   <h3 style="float: right; width: 50%; margin-top: -10px;">
-    <br>✨ My current mainproject is <a href="https://github.com/StudlyCase/ORS">ORS</a>.<br>
+    <br>✨ My current mainproject is <a href="https://github.com/StudlyCase/Open-Raw-Standard">ORS</a>.<br>
     🛠️ My current sideproject is <a href="https://github.com/StudlyCase/RapidForge">RapidForge</a>.<br>
     📜 I'm currently learning <a href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java</a>.
   </h3>
