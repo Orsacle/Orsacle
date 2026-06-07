@@ -28,5 +28,6 @@
     <br>✨ My current mainproject is <a href="https://github.com/StudlyCase/Open-Raw-Standard">ORS</a>.<br>
     🛠️ My current sideproject is <a href="https://github.com/StudlyCase/RapidForge">RapidForge</a>.<br>
     📜 I'm currently learning <a href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java</a>.
+    ➕ More of my work on <a href="https://steamcommunity.com/id/zales07">Steam Workshop</a>.
   </h3>
 </div>
