@@ -25,8 +25,9 @@
   <img align="left" src="https://github-readme-stats.shion.dev/api/top-langs/?username=StudlyCase&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400" />
   <br>
   <h3 style="float: right; width: 50%; margin-top: -10px;">
-    <br>✨ My current mainproject is <a href="https://github.com/StudlyCase/Open-Raw-Standard">ORS</a>.<br>
-    🛠️ My current sideproject is <a href="https://github.com/StudlyCase/RapidForge">RapidForge</a>.<br>
+    ✨ My current mainproject is <a href="https://github.com/StudlyCase/Open-Raw-Standard">ORS</a>.<br>
+    🛠️ My current sideproject is <a href="https://github.com/StudlyCase/GenomdataExplorer">GenomdataExplorer</a>.<br>
+    ⏲️ I'm not actively working on <a href="https://github.com/StudlyCase/RapidForge">RapidForge</a>.<br>
     📜 I'm currently learning <a href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java</a>.<br>
     ➕ More of my work on <a href="https://steamcommunity.com/id/zales07">Steam Workshop</a>.
   </h3>
