@@ -26,7 +26,7 @@
   <br>
   <h3 style="float: right; width: 50%; margin-top: -10px;">
     ✨ My current mainproject is <a href="https://github.com/StudlyCase/Open-Raw-Standard">ORS</a>.<br>
-    🛠️ My current sideproject is <a href="https://github.com/StudlyCase/GenomdataExplorer">GenomdataExplorer</a>.<br>
+    🛠️ My current sideproject is <a href="https://github.com/StudlyCase/Wester">Wester</a>.<br>
     📜 I'm currently learning <a href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java</a>.<br>
     ➕ More of my work on the <a href="https://steamcommunity.com/id/zales07/myworkshopfiles/">Steam Workshop</a>.
   </h3>
