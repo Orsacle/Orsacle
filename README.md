@@ -1,9 +1,15 @@
 <img width="1346" height="564" alt="code type image" src="https://github.com/user-attachments/assets/585260bd-bf5c-4018-a81d-98d6572f702c" />
 
-
 <div align="center">
+<table>
+<tr>
+<td valign="top" width="400">
 
-# 💻 Tech Stack:
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=StudlyCase&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400" />
+</td>
+<td valign="top">
+<h3>Tech Stack / Experience</h3>
+  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -20,13 +26,7 @@
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-</div>
-
-<div align="center">
-  <img align="left" src="https://github-readme-stats.shion.dev/api/top-langs/?username=StudlyCase&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400" />
-<h4 style="float: right; width: 50%; margin-top: -10px;">
-<br><br>I build weird corners of the internet. Main one is <strong>webrelics.xyz</strong>, an archive of forgotten internet artifacts (PHP, MySQL, duct tape). Also working on <strong>ORS</strong>, a lossless image format with privacy-by-design metadata, and <strong>Wester</strong>, a raw NLP model built from scratch. For less responsible fun, there's <strong>QueryShell</strong>, a terminal SQL pentesting tool.
-
-Backend guy through and through, Java and Python are home turf. Frontend? I could center a div manually, but Claude does it better.
-</h4>
+</td>
+</tr>
+</table>
 </div>
