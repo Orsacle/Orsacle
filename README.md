@@ -1,4 +1,5 @@
-<img width="1500" height="500" alt="Hello, I’m StudlyCase" src="https://github.com/user-attachments/assets/184b0768-2b61-4d22-a82c-0d93f63a9e99" />
+<img width="1346" height="564" alt="code type image" src="https://github.com/user-attachments/assets/585260bd-bf5c-4018-a81d-98d6572f702c" />
+
 
 <div align="center">
 
@@ -23,11 +24,9 @@
 
 <div align="center">
   <img align="left" src="https://github-readme-stats.shion.dev/api/top-langs/?username=StudlyCase&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400" />
-  <br>
-  <h3 style="float: right; width: 50%; margin-top: -10px;">
-    ✨ My current mainproject is <a href="https://github.com/StudlyCase/Open-Raw-Standard">ORS</a>.<br>
-    🛠️ My current sideproject is <a href="https://github.com/StudlyCase/Wester">Wester</a>.<br>
-    📜 I'm currently learning <a href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java</a>.<br>
-    ➕ More of my work on the <a href="https://steamcommunity.com/id/zales07/myworkshopfiles/">Steam Workshop</a>.
-  </h3>
+<h4 style="float: right; width: 50%; margin-top: -10px;">
+<br><br>I build weird corners of the internet. Main one is <strong>webrelics.xyz</strong>, an archive of forgotten internet artifacts (PHP, MySQL, duct tape). Also working on <strong>ORS</strong>, a lossless image format with privacy-by-design metadata, and <strong>Wester</strong>, a raw NLP model built from scratch. For less responsible fun, there's <strong>QueryShell</strong>, a terminal SQL pentesting tool.
+
+Backend guy through and through, Java and Python are home turf. Frontend? I could center a div manually, but Claude does it better.
+</h4>
 </div>
