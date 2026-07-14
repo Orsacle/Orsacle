@@ -1,6 +1,6 @@
 <img width="1346" height="564" alt="code type image" src="https://github.com/user-attachments/assets/585260bd-bf5c-4018-a81d-98d6572f702c" />
 
-<div align="center">
+<!--<div align="center">
 <table>
 <tr>
 <td valign="top" width="400">
@@ -27,3 +27,4 @@
 </tr>
 </table>
 </div>
+-->
