@@ -1,11 +1,12 @@
-<img width="1346" height="564" alt="code type image" src="https://github.com/user-attachments/assets/585260bd-bf5c-4018-a81d-98d6572f702c" />
+<img width="1346" height="520" alt="carbon" src="https://github.com/user-attachments/assets/47f8a7f4-d49a-4366-b88c-68fe72464f26" />
+
 
 <!--<div align="center">
 <table>
 <tr>
 <td valign="top" width="400">
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=StudlyCase&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Orsacle&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400" />
 </td>
 <td valign="top">
 <h3>Tech Stack / Experience</h3>
