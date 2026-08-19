@@ -1,3 +1,10 @@
-# Hej
-
-I don't got much to say. I purely focus on Golang development
+<p align="left"; class="header">
+  Hej, I'm Orsacle<br>
+  ============
+</p>
+<p align="left"; body>
+  I purely program in Golang and focus on backend.<br>From small CLI helpers to background services<br>
+</p>
+<p align="left"; class="footer">
+	<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Orsacle"/>
+</p>
