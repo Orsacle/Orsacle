@@ -8,7 +8,7 @@
 <p align="left"; body>
   What do I even do?
   <br>----------------------------
-  <br>I build things that I couldn't find for my satisfaction<br>
+  <br>I build things that I couldn't find myself.<br>
 </p>
 <p align="left"; class="footer">
 	<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Orsacle"/>
