@@ -3,13 +3,13 @@
   =============
 </p>
 <p align="left"; body>
-  I purely program in Golang and focus on backend.<br>From small CLI helpers to background services<br>
+  I'm a Golang & PHP-Backend Developer<br>. In Golang I build CLI Helpers up to background services.<br>
 </p>
 <p align="left"; body>
-  What do I even do?
-  <br>----------------------------
-  <br>I build things that I couldn't find myself.<br>
-</p>
+  What are some of your repos?
+  <br>------------------------------
+  <br>WireHook - Lightweight webhook-router/Gateway for Git which forwards repo events to your discord or slack chat channels without standing up a full CI pipeline.<br>QueryShell - SQL injection detection tool for authorized security assessments.
+</p><br>
 <p align="left"; class="footer">
 	<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Orsacle"/>
 </p>
