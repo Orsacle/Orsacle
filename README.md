@@ -3,7 +3,7 @@
   =============
 </p>
 <p align="left"; body>
-  I'm a Golang & PHP-Backend Developer<br>. In Golang I build CLI Helpers up to background services.<br>
+  I'm a Golang & PHP-Backend Developer.<br> In Golang I build CLI Helpers up to background services.<br>
 </p>
 <p align="left"; body>
   What are some of your repos?
